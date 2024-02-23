@@ -2,10 +2,10 @@ package engine
 
 import (
 	"fmt"
-	"github.com/ShkrutDenis/go-migrations/engine/config"
-	"github.com/ShkrutDenis/go-migrations/engine/db"
-	"github.com/ShkrutDenis/go-migrations/engine/migrator"
-	"github.com/ShkrutDenis/go-migrations/engine/store"
+	"github.com/EvgeniyBlinov/go-migrations/engine/config"
+	"github.com/EvgeniyBlinov/go-migrations/engine/db"
+	"github.com/EvgeniyBlinov/go-migrations/engine/migrator"
+	"github.com/EvgeniyBlinov/go-migrations/engine/store"
 	"log"
 )
 

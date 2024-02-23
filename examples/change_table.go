@@ -1,7 +1,7 @@
 package list
 
 import (
-	"github.com/ShkrutDenis/go-migrations/builder"
+	"github.com/EvgeniyBlinov/go-migrations/builder"
 	"github.com/jmoiron/sqlx"
 )
 

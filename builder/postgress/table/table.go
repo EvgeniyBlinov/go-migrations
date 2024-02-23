@@ -2,11 +2,11 @@ package table
 
 import (
 	"fmt"
-	"github.com/ShkrutDenis/go-migrations/builder/contract"
-	"github.com/ShkrutDenis/go-migrations/builder/postgress/column"
-	"github.com/ShkrutDenis/go-migrations/builder/postgress/info"
-	"github.com/ShkrutDenis/go-migrations/builder/postgress/key"
-	"github.com/ShkrutDenis/go-migrations/engine/config"
+	"github.com/EvgeniyBlinov/go-migrations/builder/contract"
+	"github.com/EvgeniyBlinov/go-migrations/builder/postgress/column"
+	"github.com/EvgeniyBlinov/go-migrations/builder/postgress/info"
+	"github.com/EvgeniyBlinov/go-migrations/builder/postgress/key"
+	"github.com/EvgeniyBlinov/go-migrations/engine/config"
 	"github.com/jmoiron/sqlx"
 	"log"
 	"strconv"

@@ -2,8 +2,8 @@ package key
 
 import (
 	"fmt"
-	"github.com/ShkrutDenis/go-migrations/builder/contract"
-	"github.com/ShkrutDenis/go-migrations/engine/config"
+	"github.com/EvgeniyBlinov/go-migrations/builder/contract"
+	"github.com/EvgeniyBlinov/go-migrations/engine/config"
 	"github.com/jmoiron/sqlx"
 	"log"
 )

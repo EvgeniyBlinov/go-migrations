@@ -1,9 +1,9 @@
 package builder
 
 import (
-	"github.com/ShkrutDenis/go-migrations/builder/contract"
-	mysql "github.com/ShkrutDenis/go-migrations/builder/mysql/table"
-	postgres "github.com/ShkrutDenis/go-migrations/builder/postgress/table"
+	"github.com/EvgeniyBlinov/go-migrations/builder/contract"
+	mysql "github.com/EvgeniyBlinov/go-migrations/builder/mysql/table"
+	postgres "github.com/EvgeniyBlinov/go-migrations/builder/postgress/table"
 	"github.com/jmoiron/sqlx"
 	"os"
 )

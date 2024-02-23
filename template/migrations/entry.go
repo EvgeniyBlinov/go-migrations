@@ -1,9 +1,9 @@
 package main
 
 import (
-	gmEngine "github.com/ShkrutDenis/go-migrations/engine"
-	gmStore "github.com/ShkrutDenis/go-migrations/engine/store"
-	"github.com/ShkrutDenis/go-migrations/template/migrations/list"
+	gmEngine "github.com/EvgeniyBlinov/go-migrations/engine"
+	gmStore "github.com/EvgeniyBlinov/go-migrations/engine/store"
+	"github.com/EvgeniyBlinov/go-migrations/template/migrations/list"
 )
 
 func main() {

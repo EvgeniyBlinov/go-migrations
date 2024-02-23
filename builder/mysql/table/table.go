@@ -2,11 +2,11 @@ package table
 
 import (
 	"fmt"
-	"github.com/ShkrutDenis/go-migrations/builder/contract"
-	"github.com/ShkrutDenis/go-migrations/builder/mysql/column"
-	"github.com/ShkrutDenis/go-migrations/builder/mysql/info"
-	"github.com/ShkrutDenis/go-migrations/builder/mysql/key"
-	"github.com/ShkrutDenis/go-migrations/engine/config"
+	"github.com/EvgeniyBlinov/go-migrations/builder/contract"
+	"github.com/EvgeniyBlinov/go-migrations/builder/mysql/column"
+	"github.com/EvgeniyBlinov/go-migrations/builder/mysql/info"
+	"github.com/EvgeniyBlinov/go-migrations/builder/mysql/key"
+	"github.com/EvgeniyBlinov/go-migrations/engine/config"
 	"github.com/jmoiron/sqlx"
 	"log"
 	"strconv"

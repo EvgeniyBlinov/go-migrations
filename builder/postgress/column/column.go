@@ -2,8 +2,8 @@ package column
 
 import (
 	"fmt"
-	"github.com/ShkrutDenis/go-migrations/builder/contract"
-	"github.com/ShkrutDenis/go-migrations/builder/postgress/info"
+	"github.com/EvgeniyBlinov/go-migrations/builder/contract"
+	"github.com/EvgeniyBlinov/go-migrations/builder/postgress/info"
 	"github.com/jmoiron/sqlx"
 	"strings"
 )
