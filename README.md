@@ -7,13 +7,13 @@ Module for the creating migrations for GoLang applications.
 ### Install
 
 ```
-    go get github.com/ShkrutDenis/go-migrations
+    go get github.com/EvgeniyBlinov/go-migrations
 ```
 
 for update use flag `-u`:
 
 ```
-    go get -u github.com/ShkrutDenis/go-migrations
+    go get -u github.com/EvgeniyBlinov/go-migrations
 ```
 
 ### Usage
